@@ -1,6 +1,6 @@
 # Solving-PDEs-based-on-ANN
-Artificial neural network(ANN) and its application in solving partial differential equations(PDEs)
-Many codes have not been sorted out. If you have doubts about the code or want a complete source code, please contact me: 2535962518@qq.com
+Artificial neural network(ANN) and its application in solving partial differential equations(PDEs)  
+Many codes have not been sorted out. If you have doubts about the code or want a complete source code, please contact me: 2535962518@qq.com  
 很多代码没有整理完毕，如果您对代码有疑惑或想要完整源码请联系我：2535962518@qq.com
 
 ## Catalogue
